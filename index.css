@@ -1,0 +1,14 @@
+h1 {
+    color: darkgreen;
+    background-color: aqua;
+    font-family: monospace;
+}
+
+button {
+    padding: 20px;
+}
+
+#unhidebutton {
+
+    padding: 20px
+}
